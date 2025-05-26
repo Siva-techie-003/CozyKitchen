@@ -1,0 +1,35 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Recipes | CozyKitchen</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <nav class="navbar">
+    <div class="logo">CozyKitchen</div>
+    <ul class="nav-links">
+      <li><a href="index.html">Home</a></li>
+      <li><a href="category.html?type=all">Recipes</a></li>
+      <li><a href="#">About</a></li>
+    </ul>
+    <button id="darkToggle" class="dark-toggle">🌙 Dark Mode</button>
+  </nav>
+  <div class="cta">
+    <h2 id="categoryTitle">All Recipes</h2>
+  </div>
+  <div id="recipeList" class="category-cards"></div>
+  <div class="cta">
+    <button id="loadMoreBtn" onclick="loadCategoryRecipes(false)">Load More Recipes</button>
+  </div>
+  <footer>
+    &copy; 2025 CozyKitchen. All rights reserved.
+  </footer>
+  <script src="recipes.js"></script>
+  <script src="script.js"></script>
+  <script>
+    setupDarkMode();
+    loadCategoryRecipes();
+  </script>
+</body>
+</html>
