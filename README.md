@@ -3,14 +3,14 @@ TastyBytes is a beautifully designed, fully functional recipe website showcasing
 
 ## 🌟 Features
 
-🌍 80+ curated real-world recipes across global cuisines.
-🍲 Categorized into Vegetarian, Vegan, Non-Veg, and Desserts.
-🌗 Dark Mode support for better accessibility.
-🔍 Dynamic Search and Category Filters.
-📱 Fully responsive design for mobile, tablet, and desktop users.
-⚡ Animated interactions for a smooth and modern UX.
-📖 Dedicated recipe detail pages with ingredients and steps.
-📨 Newsletter/contact section (placeholder ready for integration).
+- 🌍 80+ curated real-world recipes across global cuisines.
+- 🍲 Categorized into Vegetarian, Vegan, Non-Veg, and Desserts.
+- 🌗 Dark Mode support for better accessibility.
+- 🔍 Dynamic Search and Category Filters.
+- 📱 Fully responsive design for mobile, tablet, and desktop users.
+- ⚡ Animated interactions for a smooth and modern UX.
+- 📖 Dedicated recipe detail pages with ingredients and steps.
+- 📨 Newsletter/contact section (placeholder ready for integration).
 
 ## 🧩 Technologies Used
 
